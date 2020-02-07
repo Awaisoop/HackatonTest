@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "829293785330",
+    "firebase_url": "https://fir-auth-d53b4.firebaseio.com",
+    "project_id": "fir-auth-d53b4",
+    "storage_bucket": "fir-auth-d53b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829293785330:android:686ac4ae81de8204d8a06b",
+        "android_client_info": {
+          "package_name": "com.devtech.hackaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829293785330-daa1ho0fke48go5bq8ostbbrqer0lb1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWznY2uvGnLppIYGXBVmwJfQUy_zyTxT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829293785330-daa1ho0fke48go5bq8ostbbrqer0lb1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
